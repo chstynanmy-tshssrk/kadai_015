@@ -1,5 +1,6 @@
 body{
-  font-family:"Arial","Meiryo",sans-serif
+  font-family:"Arial","Meiryo",sans-serif;
+  text-align: center;
 }
 html{
   font-size: 20px;
@@ -10,3 +11,13 @@ html{
 .pink{
   color: rgb(255,192,203);
 }
+h1 {
+  font-size: 40px;
+  font-family: "Josefin Sans", sans-serif;
+  letter-spacing: 50px;
+  text-shadow: 2px 2px 4px  gray;
+  border-bottom: 3px solid rgb(115,115,114);
+  }   
+#basic p{
+  font-weight: bold;
+}   
